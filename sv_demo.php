@@ -7,7 +7,7 @@ Updated=4/10/2015
 Type=Plugin.standard
 Author=Hong Shen
 Description=a demo of code documentation and refactoring
-            contact: Evaldas Alexander alex@simplexity.ventures
+            
 [END_HONG]
 ==================== */
 //if ( !defined('HONG_CODE') OR !defined('HONG_PLUG') ) { die("Wrong URL."); }
